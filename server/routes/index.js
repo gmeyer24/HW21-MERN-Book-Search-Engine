@@ -10,3 +10,5 @@ router.use((req, res) => {
 });
 
 module.exports = router;
+
+// REMOVE ROUTES FOLDER
