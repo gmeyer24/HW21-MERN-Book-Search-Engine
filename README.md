@@ -85,11 +85,11 @@
 <!-- Enter Description Below -->
 I took an app with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. 
 
-[![HW21-MERN-Book-Search-Engine Deployed Link](product-screenshot)](https://gmeyer24.github.io/HW21-MERN-Book-Search-Engine)
+[![HW21-MERN-Book-Search-Engine Deployed Link](assets/images/app_screenshot.png)](https://hw21-mern-book-search-engine.onrender.com/)
 
-### Walkthrough Video Link
+<!-- ### Walkthrough Video Link
 
-[![Walktrhough Video](screen-shot)](link)
+[![Walktrhough Video](screen-shot)](link) -->
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `gmeyer24`, `HW21-MERN-Book-Search-Engine`, `gavinpmeyer`, `gmail`, `gpmeyer24`, `HW21-MERN-Book-Search-Engine`, `project_description` -->
 
@@ -158,9 +158,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-### Walkthrough Video Link
+### Walkthrough Video
 
-[![Walktrhough Video](screen-shot)](link)
+[![Walktrhough Video](assets/images/walkthrough_screenshot.png)](https://drive.google.com/file/d/12LqK85kjGE1_B2ajzoMLefT0qMppjylW/view)
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -212,9 +212,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Gavin Meyer | Email: gpmeyer24@gmail.com | GitHub: gmeyer24
 
-Project Link: [https://github.com/gmeyer24/HW21-MERN-Book-Search-Engine](https://github.com/gmeyer24/HW21-MERN-Book-Search-Engine)
+Project Link: [GitHub Repo](https://github.com/gmeyer24/HW21-MERN-Book-Search-Engine)
 
-Deployed Link: [https://gmeyer24.github.io/HW21-MERN-Book-Search-Engine](https://gmeyer24.github.io/HW21-MERN-Book-Search-Engine)
+Deployed Link: [HW21-MERN-Book-Search-Engine](https://hw21-mern-book-search-engine.onrender.com/)
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
